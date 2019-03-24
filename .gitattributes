@@ -1,2 +1,2 @@
 * linguist-vendored
-*.php linguist-vendored=false
+*.hack linguist-vendored=false
